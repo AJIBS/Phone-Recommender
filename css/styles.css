@@ -1,0 +1,48 @@
+body{
+	text-align: center;
+	background-color: #f7f7f7;
+	color: #333;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+}
+
+.products{
+	margin-top: 40px;
+}
+
+.subProduct{
+	margin-bottom: 60px; 
+}
+
+#priceA, #priceB, #priceC{
+	color: red;
+}
+
+button{
+	margin-top: 10px;
+}
+
+.imageBox{
+	padding: 10px;
+	border: 1px solid red;
+}
+
+h1, h3, h4{
+	font-family: 'Palaquin', sans-serif;
+}
+
+h1{
+	font-size: 40px;
+}
+
+h3{
+	font-size: 30px;
+}
+
+h4{
+	font-size: 22px;
+}
+
+#action{
+	color: blue;
+}
