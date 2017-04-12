@@ -17,7 +17,7 @@ You can view the live version of the phone recommender on: https://ajibs.github.
 
 ## Possible Features
 * A load more button; for the user to obtain 3 extra phone suggestions
-* Learn more button; takes user to gsm arena with full phone specifications
+* Learn more button; takes user to GSMArena with full phone specifications
 * The "buy button" sends the website admin an email or sms detailing the phone
 * Store phone images and buy links in a database 
 * Retrieve phone images and buy links from the database (they are currently in the JS file)
